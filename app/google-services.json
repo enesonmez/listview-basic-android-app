@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702703448329",
+    "project_id": "yerler-26c74",
+    "storage_bucket": "yerler-26c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702703448329:android:c132520438c1afc9dfe3d8",
+        "android_client_info": {
+          "package_name": "com.example.yerler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702703448329-djp200kfss9v43v5dm27r0ce0n5jftsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe0iW_nPiR_TnAKHXO2mS8MJL84eNqGys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702703448329-djp200kfss9v43v5dm27r0ce0n5jftsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
